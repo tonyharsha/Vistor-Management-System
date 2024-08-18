@@ -1,0 +1,1 @@
+A Spring Boot-based Visitor Management System to boost community security by allowing gatekeepers to validate visitors and seek flat owner approval for access. Built key modules like UserService, AdminService, GateKeeperService, and VisitorService to improve platform functionality and user experience
