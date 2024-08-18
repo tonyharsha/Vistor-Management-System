@@ -1,0 +1,36 @@
+User Creation.
+
+{
+    "name":"Harsha",
+    "email":"tonyharsha87@gmail.com",
+    "phoneNo":"5566788769",
+    "role":"ADMIN",
+    "flatNo":"A-1",
+    "idNumber":"1234-1234-1234",
+    "addressDto":{
+        "line1":"BazaarStreet",
+        "line2":"Main Road",
+        "city":"MBL Town",
+        "pincode":"5631310",
+        "country":"INDIA"
+    }
+}
+
+
+Vistor creation
+
+{
+    "name":"Anil",
+    "email":"anil6@gmail.com",
+    "phoneNo":"9876987623",
+    "idNumber":"9999-9999-9999",
+    "address":{
+        "line1":"RngRoad",
+        "line2":"PentHouse",
+        "city":"MBL Town",
+        "pincode":"5631310",
+        "country":"INDIA"
+    }
+}
+
+
